@@ -32,7 +32,7 @@
     background: rgba(255, 255, 255, 0.30);
     padding: 16px;
     gap: 24px;
-    margin-left: 50px;
+    margin-left: 150px;
     border-radius: 8px;
 }
 
@@ -149,7 +149,7 @@ nav a {
     color: #131318;
     text-align: center;
     font-family: Mulish;
-    font-size: 40px;
+    font-size: 41px;
     font-weight: 800;
 }
 
@@ -251,7 +251,12 @@ nav a {
 
 }
 
-.input {
+.border {
+    border: 2px solid #FF5400;
+    border-radius: 10px;
+}
+
+.input-2 {
     width: 393px;
     height: 52px;
     border-radius: 8px;
@@ -284,13 +289,15 @@ nav a {
     text-align: center;
     margin: 50px auto;
 }
-.travel-agency-2{
+
+.travel-agency-2 {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 20px;
     padding-top: 100px;
 }
-.end{
+
+.end {
     padding-top: 70px;
 }
