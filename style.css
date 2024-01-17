@@ -112,7 +112,7 @@ nav a {
     display: flex;
     justify-content: space-around;
     width: 1300px;
-    height: 6940px;
+    height: 500px;
     margin: 50px auto;
 }
 
@@ -131,7 +131,148 @@ nav a {
     font-size: 40px;
     font-weight: 800;
 }
-.img-1{
+
+.img-1 {
     width: 540px;
     height: 500px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+    margin: 25px 25px;
+    gap: 25px;
+
+}
+
+.img-head {
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.img-description {
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.image-section-1 {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin: 25px 25px;
+}
+
+.image-section-2 {
+    display: flex;
+    justify-content: center;
+    margin: 25px 25px;
+    gap: 25px;
+}
+
+.heading-2 {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 40px;
+}
+
+.service-1 {
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    width: 573px;
+    height: 284px;
+}
+
+.service-2 {
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+    width: 573px;
+    height: 284px;
+}
+
+.service-3 {
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    width: 573px;
+    height: 284px;
+    margin: 30px auto;
+    margin-bottom: 150px;
+}
+
+.image-section-3 {
+    display: flex;
+    justify-content: center;
+    margin: 80px 25px;
+    gap: 30px;
+}
+
+.service-4 {
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: red;
+    margin: 30px auto;
+    width: 300px;
+    height: 200px;
+}
+
+.discount {
+    font-size: 50px;
+    text-align: center;
+    font-weight: 900;
+    color: #FFF;
+}
+
+.video-section {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 25px 25px;
+
+}
+
+.video {
+    width: 500px;
+    height: 500px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+}
+
+.input {
+    width: 393px;
+    height: 52px;
+    border-radius: 8px;
+    background: rgba(19, 19, 24, 0.05);
+    margin-bottom: 15px;
+}
+
+.text {
+    width: 324px;
+    height: 120px;
+    transform: rotate(-19.628deg);
+    border-radius: 16px;
+    background: #FF5400;
+    color: #FFF;
+    text-align: center;
+    margin: 250px auto;
+}
+
+.img-container {
+    border-radius: 16px;
+    background: url('Images/Rectangle\ 8\ \(1\).png');
+    width: 672px;
+    height: 422px;
 }
