@@ -276,3 +276,21 @@ nav a {
     width: 672px;
     height: 422px;
 }
+
+.footer {
+    width: 1540px;
+    height: 502px;
+    background: rgba(19, 19, 24, 0.05);
+    text-align: center;
+    margin: 50px auto;
+}
+.travel-agency-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-top: 100px;
+}
+.end{
+    padding-top: 70px;
+}
